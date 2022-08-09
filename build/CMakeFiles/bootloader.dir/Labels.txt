@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/WorkSpaces/ESP32/DA_Test1/build/CMakeFiles/bootloader
+D:/WorkSpaces/ESP32/DA_Test1/build/CMakeFiles/bootloader.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/CMakeFiles/bootloader-complete.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/WorkSpaces/ESP32/DA_Test1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
